@@ -1,11 +1,11 @@
-About r-juicyjuice
-==================
+About r-juicyjuice-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-juicyjuice-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rich-iannone/juicyjuice
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-juicyjuice-feedstock/blob/main/LICENSE.txt)
 
 Summary: There are occasions where you need a piece of HTML with integrated styles. A prime example of this is HTML email. This transformation involves moving the CSS and associated formatting instructions from the style block in the head of your document into the body of the HTML. Many prominent email clients require integrated styles in HTML email; otherwise a received HTML email will be displayed without any styling. This package will quickly and precisely perform these CSS transformations when given HTML text and it does so by using the JavaScript 'juice' library.
 
